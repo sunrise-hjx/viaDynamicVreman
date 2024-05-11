@@ -1,0 +1,3 @@
+makeViaDynamicVremanModel.C
+
+LIB = $(FOAM_USER_LIBBIN)/libViaDynamicVreman
